@@ -1,8 +1,8 @@
 child = {
   :name => "carrie",
   :mother => {
-    :name: "debbi",
-    :mother: => {
+    :name "debbi",
+    :mother => {
       :name => "Maxene"
     },
     :father => {}
