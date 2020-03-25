@@ -1,7 +1,7 @@
 child = {
   :name => "carrie",
   :mother => {
-    :name "debbi",
+    :name => "debbi",
     :mother => {
       :name => "Maxene"
     },
