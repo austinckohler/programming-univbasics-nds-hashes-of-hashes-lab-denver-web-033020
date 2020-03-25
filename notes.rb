@@ -16,4 +16,5 @@ child = {
 
 puts child[:name]
 puts child[:father][:mother][:name] = "quinn"
+puts child[:father][:mother]
 puts child
